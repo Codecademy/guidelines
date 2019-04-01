@@ -46,14 +46,14 @@ Oh boy, you're ready to create a repository on GitHub! It should contain at leas
 * `README.md` containing at least:
     * Title, GitHub badges for relevant tooling, and a concise explanation of the project
     * Clear documentation for the following, each either in the README.md or a linked docs file:
-        * Basic and advanced usage instructions 
+        * Basic and advanced usage instructions
         * Development requirements and instructions
     * Link to the [Contributor Covenant](https://www.contributor-covenant.org) as the code of conduct
 
 Also see:
 
 * [./template](./template) as our recommended starting repository files
-* [console-fail-test](https://github.com/console-fail-test) as an example
+* [console-fail-test](https://github.com/Codecademy/console-fail-test) as an example
 
 ## Popular promotions
 
