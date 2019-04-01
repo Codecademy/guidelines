@@ -53,7 +53,7 @@ Oh boy, you're ready to create a repository on GitHub! It should contain at leas
 Also see:
 
 * [./template](./template) as our recommended starting repository files
-* [console-fail-test](/) as an example
+* [console-fail-test](https://github.com/console-fail-test) as an example
 
 ## Popular promotions
 
