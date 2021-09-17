@@ -40,7 +40,7 @@ Ideally here there would be a longer inline list, list of sections, or table of 
 
 Requires:
 
-* [Node.js](https://nodejs.org) >10 (LTS)
+* [Node.js](https://nodejs.org) >14 (LTS)
 * [Yarn](https://yarnpkg.com/en)
 
 After [forking the repo from GitHub](https://help.github.com/articles/fork-a-repo):
